@@ -2,6 +2,7 @@ ConfigParser==5.3.0
 cryptography==38.0.1
 Cython==0.29.32
 dl==0.1.0
+imutils==0.5.4
 argparse==1.4.0
 Flask==2.2.2
 HTMLParser==0.0.2
