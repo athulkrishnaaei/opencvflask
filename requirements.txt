@@ -14,4 +14,4 @@ protobuf==4.21.7
 pyOpenSSL==22.1.0
 Pyrebase==3.0.10
 scipy==1.7.3
-
+gunicorn
