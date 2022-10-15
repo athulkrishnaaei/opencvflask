@@ -129,8 +129,8 @@ def generate_frames():
             leftEye = eye[1]
             rightEye = eye[2]
 
-            distance = lip_distance(shape)
-            print(distance)
+            # distance = lip_distance(shape)
+            # print(distance)
 
             leftEyeHull = cv2.convexHull(leftEye)
             rightEyeHull = cv2.convexHull(rightEye)
